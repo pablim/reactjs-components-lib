@@ -1,7 +1,16 @@
 {
-  "name": "@pablo/react-components-lib",
-  "private": true,
+  "name": "@pablovaz/reactjs-components-lib",
+  "private": false,
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablim/reactjs-components-lib"
+  },
+  "homepage": "https://github.com/pablim/reactjs-components-lib#readme",
+  "keywords": [
+    "reactjs",
+    "components"
+  ],
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
